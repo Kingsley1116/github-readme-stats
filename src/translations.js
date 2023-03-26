@@ -44,7 +44,7 @@ const statCardLocales = ({ name, apostrophe }) => {
     "statcard.totalstars": {
       ar: "مجموع النجوم",
       cn: "获标星数（star）",
-      "zh-tw": "獲標星數（star）",
+      "zh-tw": "獲標星數 (star)",
       cs: "Celkem hvězd",
       de: "Insgesamt erhaltene Sterne",
       en: "Total Stars Earned",
@@ -75,7 +75,7 @@ const statCardLocales = ({ name, apostrophe }) => {
     "statcard.commits": {
       ar: "مجموع الحفظ",
       cn: "累计提交数（commit）",
-      "zh-tw": "累計提交數（commit）",
+      "zh-tw": "累計提交數 (commit)",
       cs: "Celkem commitů",
       de: "Anzahl Commits",
       en: "Total Commits",
@@ -106,7 +106,7 @@ const statCardLocales = ({ name, apostrophe }) => {
     "statcard.prs": {
       ar: "مجموع طلبات السحب",
       cn: "拉取请求数（PR）",
-      "zh-tw": "拉取請求數（PR）",
+      "zh-tw": "拉取請求數 (PR)",
       cs: "Celkem PRs",
       de: "PRs Insgesamt",
       en: "Total PRs",
@@ -137,7 +137,7 @@ const statCardLocales = ({ name, apostrophe }) => {
     "statcard.issues": {
       ar: "مجموع التحسينات",
       cn: "指出问题数（issue）",
-      "zh-tw": "指出問題數（issue）",
+      "zh-tw": "指出問題數 (issue)",
       cs: "Celkem problémů",
       de: "Anzahl Issues",
       en: "Total Issues",
